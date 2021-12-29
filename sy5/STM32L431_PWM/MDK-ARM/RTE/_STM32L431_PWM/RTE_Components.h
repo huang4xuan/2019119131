@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'LED1' 
- * Target:  'LED1' 
+ * Project: 'STM32L431_PWM' 
+ * Target:  'STM32L431_PWM' 
  */
 
 #ifndef RTE_COMPONENTS_H
